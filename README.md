@@ -13,7 +13,7 @@
 
   > Very interesting layout
   
-- ⚡ <b>Try to guess who I am in school!</b>
+- ⚡ <b>Try to guess who I am!</b>
 
 
 <!--
