@@ -1,7 +1,6 @@
 # Hello, this is Hearkour
 
 ### I like to listen to others.
-
 ### I like genuine learning (when I'm not under pressure!)
 
 - 🔭 I’m currently working on [xlsx-to-quizlet](https://github.com/Hearkour/xlsx-to-quizlet) and [Hearkour-app](https://github.com/Hearkour/Hearkour-app)
