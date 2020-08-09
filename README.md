@@ -14,7 +14,6 @@
 
   > Very interesting layout
   
-## ~~저는 아무것도 몰라영!~~
 
 <!--
 **Hearkour/Hearkour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
