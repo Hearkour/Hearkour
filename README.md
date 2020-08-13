@@ -6,7 +6,7 @@
 ### I like genuine learning (when I'm not under pressure!)
 <br>
 
-- 🔭 I’m currently working on [xlsx-to-quizlet](https://github.com/Hearkour/xlsx-to-quizlet) and [Hearkour-app](https://github.com/Hearkour/Hearkour-app)
+- 🔭 I’m currently working on [chinese-timer](https://github.com/Hearkour/chinese-timer) and [xlsx-to-quizlet](https://github.com/Hearkour/xlsx-to-quizlet)
   
   > Will it work well? I do not know 😉
   
