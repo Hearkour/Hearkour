@@ -1,16 +1,16 @@
 # Hello, this is Hearkour
 
 
-### I like to listen to others.
+#### I like to listen to others.
 
-### I like genuine learning (when I'm not under pressure!)
+#### I love genuine learning (when I'm not under pressure)
 <br>
 
-- 🔭 I’m currently working on [chinese-timer](https://github.com/Hearkour/chinese-timer) and [xlsx-to-quizlet](https://github.com/Hearkour/xlsx-to-quizlet)
+- 🔭 Working on [chinese-timer](https://github.com/Hearkour/chinese-timer) and [xlsx-to-quizlet](https://github.com/Hearkour/xlsx-to-quizlet)
   
   > Will it work well? I do not know 😉
   
-- 🌱 I’m currently learning [세벌식390](https://typing.malangmalang.com/)
+- 🌱 Learning [세벌식390](https://typing.malangmalang.com/)
 
   > Very interesting layout
   
