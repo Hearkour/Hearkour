@@ -6,4 +6,4 @@
 
 #### I like to listen to others.
 
-#### I love genuine learning (when I'm not under pressure)
+#### I like learning stuff in general (when I'm not under pressure)
